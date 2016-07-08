@@ -1,9 +1,9 @@
 This folder contains all the mini-projects and assignments from the udacity course 
 "introduction to machine learning" as well as some personal notes and cheat sheets I developed for myself.
 
-# Projects
+## Projects
 
-  * Naive Bayes
+  # Naive Bayes
   
     We have a set of emails, half of which were written by one person 
     and the other half by another person at the same company. 
@@ -12,7 +12,8 @@ This folder contains all the mini-projects and assignments from the udacity cour
     We will start with Naive Bayes in this mini-project, 
     and then expand in later projects to other algorithms.
     
-  * SVM
+  # SVM
+  
     We’ll tackle the exact same email author ID problem as the 
     Naive Bayes mini-project, but now with an SVM. 
     What we find will help clarify some of the practical differences 
@@ -20,11 +21,13 @@ This folder contains all the mini-projects and assignments from the udacity cour
     to play around with parameters a lot more than Naive Bayes did, 
     so we will do that too.
     
-  * Decision-Trees
+  # Decision-Trees
+  
     In this project, we will again try to identify the authors 
     in a body of emails, this time using a decision tree.
     
-  * Regression
+  # Regression
+  
     In this project, we will use regression to predict financial data 
     for Enron employees and associates. 
     
