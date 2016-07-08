@@ -1,4 +1,4 @@
-This is the reflection sheet of the git-github udacity course. One is supposed to fill out these question while going through all the lessons continuously. 
+This is the reflection sheet of the git-github udacity course. These questions are to be filled continuously while working with git and github. 
 
 ## Reflections 
 
