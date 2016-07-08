@@ -1,5 +1,7 @@
 This file contains the 6 work assignments of the "deep learning" udacity course. 
 
+Here is a link: https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/udacity
+
 ## Assignment 1: notMNIST
 
   * Preprocess notMNIST data and train a simple logistic regression model on it.
