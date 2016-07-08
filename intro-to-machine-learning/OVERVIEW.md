@@ -5,7 +5,7 @@ This folder contains all the mini-projects and assignments from the udacity cour
 
   * Naive Bayes
   
-    We have a set of emails, half of which were written by one person 
+    - We have a set of emails, half of which were written by one person 
     and the other half by another person at the same company. 
     Our objective is to classify the emails as written by one person 
     or the other based only on the text of the email. 
