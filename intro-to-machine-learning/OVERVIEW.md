@@ -1,9 +1,9 @@
 This folder contains all the mini-projects and assignments from the udacity course 
 "introduction to machine learning" as well as some personal notes and cheat sheets I developed for myself.
 
-## Projects
+# Projects
 
-  # Naive Bayes
+  ## Naive Bayes
   
     We have a set of emails, half of which were written by one person 
     and the other half by another person at the same company. 
