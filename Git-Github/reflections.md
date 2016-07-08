@@ -1,4 +1,6 @@
-## Questions on the Git - Github udacity course
+This is the reflection sheet of the git-github udacity course. One is supposed to fill out these question while going through all the lessons continuously. 
+
+## Reflections 
 
 * What happens when you initialize a repository? Why do you need to do it?
 
